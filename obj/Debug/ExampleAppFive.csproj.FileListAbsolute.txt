@@ -1,0 +1,15 @@
+C:\WPF_PROJECTS\ExampleAppFive\bin\Debug\ExampleAppFive.exe.config
+C:\WPF_PROJECTS\ExampleAppFive\bin\Debug\ExampleAppFive.exe
+C:\WPF_PROJECTS\ExampleAppFive\bin\Debug\ExampleAppFive.pdb
+C:\WPF_PROJECTS\ExampleAppFive\obj\Debug\ExampleAppFive.csprojAssemblyReference.cache
+C:\WPF_PROJECTS\ExampleAppFive\obj\Debug\MainWindow.g.cs
+C:\WPF_PROJECTS\ExampleAppFive\obj\Debug\App.g.cs
+C:\WPF_PROJECTS\ExampleAppFive\obj\Debug\ExampleAppFive_MarkupCompile.cache
+C:\WPF_PROJECTS\ExampleAppFive\obj\Debug\ExampleAppFive_MarkupCompile.lref
+C:\WPF_PROJECTS\ExampleAppFive\obj\Debug\MainWindow.baml
+C:\WPF_PROJECTS\ExampleAppFive\obj\Debug\ExampleAppFive.g.resources
+C:\WPF_PROJECTS\ExampleAppFive\obj\Debug\ExampleAppFive.Properties.Resources.resources
+C:\WPF_PROJECTS\ExampleAppFive\obj\Debug\ExampleAppFive.csproj.GenerateResource.cache
+C:\WPF_PROJECTS\ExampleAppFive\obj\Debug\ExampleAppFive.csproj.CoreCompileInputs.cache
+C:\WPF_PROJECTS\ExampleAppFive\obj\Debug\ExampleAppFive.exe
+C:\WPF_PROJECTS\ExampleAppFive\obj\Debug\ExampleAppFive.pdb
